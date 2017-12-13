@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+html, ul{ margin:0;padding:0; 
+}
+html { font-family: 'Roboto', sans-serif;  font-size: 16px; 
+}
+body { margin: 0 auto;
+       max-width: 1200px;
+       min-width: 960px;
+       width: 100%;
+       font: Georgia 1rem serif ; 
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+small { font-size:12px;}
+//h1 {font-style: Lato ; display:inline-block; column-span: all; }
